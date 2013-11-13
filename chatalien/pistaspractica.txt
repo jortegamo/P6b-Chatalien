@@ -1,0 +1,4 @@
+Deps.autorun // el código que incluimos dentro de de esta llamada se ejecutará de manera reactiva. 
+
+Meteor.methods // interfaz de APIs que se pueden llamar desde el cliente como 
+Meteor.call  // para llamar a los métodos creados en el server. 
