@@ -1,0 +1,8 @@
+html{
+	padding: 10px;
+	font-family: verdana, sans-serift;
+}
+
+.login-buttons-dropdown-align-right{
+	float: right;
+}
